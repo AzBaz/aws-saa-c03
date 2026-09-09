@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#aws-training  ",
+      "color": {
+        "a": 1,
+        "rgb": 898557
+      }
+    },
+    {
+      "query": "tag:#meetings  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#daily-notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 11008512
+      }
+    },
+    {
+      "query": "tag:#ec2  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "tag:#vpc  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#rds  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749716
+      }
+    },
+    {
+      "query": "tag:#s3  ",
+      "color": {
+        "a": 1,
+        "rgb": 1896448
+      }
+    },
+    {
+      "query": "tag:#server-based-arc  ",
+      "color": {
+        "a": 1,
+        "rgb": 16510560
+      }
+    },
+    {
+      "query": "tag:#migrating  ",
+      "color": {
+        "a": 1,
+        "rgb": 16100829
+      }
+    },
+    {
+      "query": "tag:#auth-security  ",
+      "color": {
+        "a": 1,
+        "rgb": 5042405
+      }
+    },
+    {
+      "query": "tag:#monitoring  ",
+      "color": {
+        "a": 1,
+        "rgb": 8479486
+      }
+    },
+    {
+      "query": "tag:#appendix  ",
+      "color": {
+        "a": 1,
+        "rgb": 16096000
+      }
+    },
+    {
+      "query": "tag:#exam-prep  ",
+      "color": {
+        "a": 1,
+        "rgb": 10354688
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.45855902777778,
+  "lineSizeMultiplier": 1.54554253472222,
+  "collapse-forces": true,
+  "centerStrength": 0.653645833333333,
+  "repelStrength": 20,
+  "linkStrength": 0.872395833333333,
+  "linkDistance": 30,
+  "scale": 0.4018389405216274,
+  "close": true
+}

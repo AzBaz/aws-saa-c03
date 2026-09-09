@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "019ec58077524593",
+    "type": "split",
+    "children": [
+      {
+        "id": "85bea9061b7ca578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6e8716d527e94e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57d8f3f30b28d8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8bda59f6ae9d2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6692f61452503f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26603e320d400ead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "371a93e6c6230231",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5
+  },
+  "right": {
+    "id": "a2bc2864ceb02516",
+    "type": "split",
+    "children": [
+      {
+        "id": "36c0ee0730acce57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07f53b82c81ba418",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VPC-Internet, Routing, NAT, Firewall.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for VPC-Internet, Routing, NAT, Firewall"
+            }
+          },
+          {
+            "id": "c5f5cd6f99f093c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VPC-Internet, Routing, NAT, Firewall.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from VPC-Internet, Routing, NAT, Firewall"
+            }
+          },
+          {
+            "id": "846d3e5782bb7cf7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e881f107905ff870",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e06607b7bda5a87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VPC-Internet, Routing, NAT, Firewall.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of VPC-Internet, Routing, NAT, Firewall"
+            }
+          },
+          {
+            "id": "78aef5a05da768cf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "df4a37b30b062f8c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "f10aaf44b90445af",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "7b62ac081123fb6f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "AWS-Training Notes/51. PT-2.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "markitdown:Convert to Markdown": false,
+      "docx-exporter:Export current note to DOCX": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "b6e8716d527e94e7",
+  "lastOpenFiles": [
+    "README.md",
+    "0.AWS-SAA Overview.md",
+    "0.study-notes/AWS-Training Notes/0. AWS-SAA-Training Overview.md",
+    "0.study-notes/AWS-Training Notes/0.AWS-SAA Overview.md",
+    "0.study-notes/AWS-Training Notes/0.AWS_SAA-C03_Topics_Review.md",
+    "0.study-notes/Attachements/Pasted image 20260908152638.png",
+    "0.study-notes/Attachements/Pasted image 20260520103011.png",
+    "0.study-notes/Attachements/Pasted image 20260501161026.png",
+    "0.study-notes/Attachements/Pasted image 20260501153435.png",
+    "0.study-notes/Attachements/Pasted image 20260501160250.png",
+    "0.study-notes/Attachements/Pasted image 20260501153305.png",
+    "0.study-notes/Attachements/Pasted image 20260520112036.png",
+    "0.study-notes/Attachements/Pasted image 20260525143036.png",
+    "0.study-notes/Attachements/Pasted image 20260607152742.png",
+    "0.study-notes/Attachements/Pasted image 20260607160229.png",
+    "0.study-notes/AWS-Training Notes/48.Kinesis, Elastic Beanstalk.md",
+    "0.study-notes/AWS-Training Notes/47.Athena, QuickSight, Glue, AppHow.md",
+    "0.study-notes/AWS-Training Notes/46.Translate, Transcribe, Textract, Comprehend, Rekognition.md",
+    "0.study-notes/AWS-Training Notes/45.Billing, Cost Management, and Trusted Advisor.md",
+    "0.study-notes/AWS-Training Notes/44.Organizations, Control Tower, and Resource Groups.md",
+    "0.study-notes/AWS-Training Notes/43. EventBridge.md",
+    "README.md.tmp.6748.482227648722",
+    "0.study-notes/AWS-Training Notes/42.CloudTrail and AWS Config.md",
+    "0.study-notes/AWS-Training Notes/41.CloudWatch-Metrics, Logs, Alarms, Dashboards.md",
+    "0.study-notes/AWS-Training Notes/40.AWS System Manager.md",
+    "0.study-notes/AWS-Training Notes/39.Inspector, Macie, Guard Duty.md",
+    "0.study-notes/AWS-Training Notes/38.KMS and CloudHSM.md",
+    "0.study-notes/AWS-Training Notes/37.AWS Cert.Manager, Secrets Manager, WAF, shield.md",
+    "0.study-notes/AWS-Training Notes/36.Identity Providers and Cognito.md",
+    "0.study-notes/AWS-Training Notes/35.IAM-Permissions and Policies.md",
+    "0.study-notes/AWS-Training Notes/33.DataSync, AWS Transfer, AWS Database Migration Service, AWS Batch.md",
+    "0.study-notes/AWS-Training Notes/34.IAM- Users, Groups and Roles.md",
+    "0.study-notes/AWS-Training Notes/28.DynamoDB.md",
+    "0.study-notes/AWS-Training Notes/29.DocumentDB, Redshift, Lake Formation, and Neptune.md",
+    "0.study-notes/AWS-Training Notes/30.SQS, SNS, SES, Pinpoint, MQ.md",
+    "0.study-notes/AWS-Training Notes/31.AWS Storage Gateway and AWS Backup.md",
+    "0.study-notes/AWS-Training Notes/32.AWS Snowcone, Snowball, Snowmobile 1.md",
+    "AWS-Training Notes/Unconfirmed 165422.crdownload",
+    "AWS-Training Notes/0.PT-1 Analysis.md.tmp.3104.7b73f544e7c2",
+    "AWS-Training Notes/51a. PT-2 Analysis.md.tmp.3104.2809624147bc",
+    "files-tutorials-materials/Whizlabs Cheat Sheet SAA.pdf",
+    "files-tutorials-materials/sv222_SAA Cheatsheet.pdf",
+    "files-tutorials-materials/SAA-C03-Tutorials-Dojo.pdf",
+    "files-tutorials-materials/SAA-C03-Tutorials-Dojo-Study-Guide-and-Cheat-Sheets-AWS-Certified-Solutions-Architect-Associate-2026-05-19-yiaecv.pdf",
+    "files-tutorials-materials/wHV5JnYpfHNsMvSx.pdf",
+    "files-tutorials-materials/Unconfirmed 240379.crdownload",
+    "Untitled.canvas"
+  ]
+}
