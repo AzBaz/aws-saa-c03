@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian local session state (window/pane layout, recently opened files)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian community plugin code + local data (API keys/tokens live in data.json).
+# Reinstall these from Obsidian's Community Plugins browser; manifest.json is kept
+# so the plugin list itself stays visible in the repo.
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/manifest.json
